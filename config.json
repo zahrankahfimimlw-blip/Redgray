@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://abiproo.surnxuesk.biz.id:2002",
+  "ratBaseUrl": "http://abiproo.surnxuesk.biz.id:2002",
+  "ratSocketUrl": "http://abiproo.surnxuesk.biz.id:2002",
+  "wsRawUrl": "ws://abiproo.surnxuesk.biz.id:2002/ws-raw"
+}
